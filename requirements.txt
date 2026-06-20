@@ -11,4 +11,7 @@ segno #lib for QRcode
 pillow  #lib for face relted
 #voice pipline k lie lib
 librosa # audio file ko handel krta h segment m katna edit wagers krna
+
 resemblyzer #embedding bnana taaki m algorith smje  aur usper apply kr ske aur match kra ki ahi voic e h sam voice h ki nahi y sab
+
+
