@@ -3,8 +3,7 @@ numpy
 pandas 
 scikit-learn
 dlib-bin
-face-recognition
-face-recognition-models @ git+https://github.com/ageitgey/face_recognition_models
+git+https://github.com/ageitgey/face_recognition_models
 setuptools
 supabase
 bcrypt  #hasing mtlb suraj-> 4yh79hr82@8  code m ki decode n ho
