@@ -4,7 +4,7 @@ pandas
 scikit-learn
 dlib-bin
 git+https://github.com/ageitgey/face_recognition_models
-setuptools
+setuptools<81
 supabase
 bcrypt  #hasing mtlb suraj-> 4yh79hr82@8  code m ki decode n ho
 segno #lib for QRcode
